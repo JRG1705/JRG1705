@@ -1,7 +1,4 @@
-## Hi there 👋
-
-<!--
-**JRG1705/JRG1705** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hola 👋
 
 ### **Cytometry In R - Starter questions**
 
